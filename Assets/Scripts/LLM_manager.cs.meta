@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03a19ca5ce1b9c3409af00bf86301161
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - partText: {instanceID: 0}
+  - inputPrompt: {instanceID: 0}
+  - text: {instanceID: 0}
+  - scrollContent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
